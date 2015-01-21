@@ -1,2 +1,2 @@
-# coursera-ds
+# datasciencecoursera
 Coursera Data Science Toolbox
